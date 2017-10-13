@@ -6,7 +6,8 @@ namespace Warsztaty___tydzień_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Test");
+            Console.WriteLine("Test2");
         }
     }
 }
